@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QrCodeSample</string>
+    <string name="title_home">Scan QRCode</string>
+    <string name="title_dashboard">Generate QR</string>
+    <string name="title_notifications">Notifications</string>
+    <integer name="viewfinder_border_width">4</integer>
+    <integer name="viewfinder_border_length">60</integer>
+</resources>
